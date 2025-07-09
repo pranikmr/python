@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("We are  waiting")
+print("We are waiting for you")
