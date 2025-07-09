@@ -1,4 +1,4 @@
 print("Hello, world!")
 
-a = Darling
+a = int(input())
 print(a)
