@@ -1,4 +1,2 @@
 print("Hello, world!")
-
-a = int(input())
-print(a)
+print("We are  waiting")
